@@ -44,13 +44,14 @@ experience:
   #   date_start: '2016-01-01'
   #   date_end: '2020-12-31'
   #   description: Taught electronic engineering and researched semiconductor physics.
+
   - title: laji
     company: Horizon
     company_url: ''
     company_logo:
     location: Changsha
-    date_start: '2019'
-    date_end: '2019'
+    date_start: '2019-07-01'
+    date_end: '2019-08-31'
     description: jianlaji
 
 design:
