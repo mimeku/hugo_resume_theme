@@ -46,6 +46,8 @@ experience:
   #   description: Taught electronic engineering and researched semiconductor physics.
   - title: laji
     company: Horizon
+    company_url: ''
+    company_logo:
     location: Changsha
     date_start: '2019'
     date_end: '2019'
