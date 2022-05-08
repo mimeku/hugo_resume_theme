@@ -14,7 +14,7 @@ organizations:
     url: https://www.nju.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Reinforcement Learning and Recommend System.
 
 # Interests to show in About widget
 interests:
